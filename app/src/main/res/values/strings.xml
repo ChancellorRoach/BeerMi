@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BeerMi</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="access_token">MDo5OGZlMzJiMi0xYTA0LTExZTYtYTJiMi1kYjc4Y2M3N2RkYmY6UkFPYmViaVhNS3FDYXN2eWNUNFFnRWwwZ1RYeGdoUHNqQTRp</string>
+    <string name="sales">SALES</string>
+</resources>
